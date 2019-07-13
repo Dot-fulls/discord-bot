@@ -4,7 +4,7 @@ TOKEN = 'NTk5MTYxNjI0OTMwMDI1NDgy.XShK_w.glUWKqEL-4CVfMfRBSadeXLBX4U'
 CLIENT_ID = 599161624930025482
 
 # 通知用のチャンネルID
-inform_channel = 599402768582574081
+inform_channel = 599127299992059941
 
 # bot
 bot = Discordrb::Commands::CommandBot.new token: TOKEN, client_id: CLIENT_ID, prefix:'/'
